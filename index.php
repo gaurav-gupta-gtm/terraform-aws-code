@@ -1,4 +1,4 @@
-<img src="gaurav.jpg" alt="GAURAV GUPTA" width="500" height="600">
+<img src="gaurav.jpeg" alt="GAURAV GUPTA" width="500" height="600">
 <br />
 
 <pre>
